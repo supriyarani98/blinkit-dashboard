@@ -3,6 +3,7 @@
 This Power BI project is a data-driven business intelligence solution developed to analyze and visualize supermarket sales data. It helps uncover insights related to product sales, outlet performance, and customer trends using powerful visualizations and interactive charts.
 
 ---
+![Dashboard Preview](Blinkit ss.png)
 
 ## 🔧 Tools Used
 
